@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif, fantasy;
+    color: black;
+    font-size: 14px;
+    background-image: url(background.jpg);
+    background-size:cover;
+    width: 50%;
+    margin: auto;
+}
+
+
+
+img {
+    
+    width: 65%;
+    border: 4px dotted blue;
+    border-radius: 10%;
+    display: block; 
+    margin:auto;   
+    
+}
+
+
+h1 {
+    
+    border-bottom: 5px solid blue;
+    text-align: center;
+    background-color: cornflowerblue;
+    
+    
+    
+    
+}
+
+.paragraf1 {
+    
+    text-align: center;
+}
+
+
+.kirmizi {
+    
+    color: darkslateblue;
+    
+    
+}
